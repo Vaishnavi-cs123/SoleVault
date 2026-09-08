@@ -76,10 +76,10 @@ To run the project locally:
 1.Install XAMPP.
 2.Start Apache and MySQL.
 3.Put the solevault folder inside:
-C:\xampp\htdocs\
+ C:\xampp\htdocs\
 4.Create a MySQL database named:
-solevault
+ solevault
 5.Import the database file into MySQL.
 6.Configure your local database connection in includes/db.php.
 7.Open the following in your browser:
- http://localhost/solevault/
+  http://localhost/solevault/
