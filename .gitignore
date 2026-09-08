@@ -1,0 +1,12 @@
+# Local database configuration
+includes/db.php
+
+# User-uploaded profile images
+uploads/profile/
+
+# Local/editor/system files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
